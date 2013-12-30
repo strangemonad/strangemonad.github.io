@@ -1,0 +1,48 @@
+/* http://paperpencilpixel.wordpress.com/2011/05/26/ipad-grid/
+	- iPad is 16 x 12 of 64x64 blocks
+	- 4 (x 4 x 64) columns in landscape
+	- 3 (x 4 x 64) columns in portrait
+	
+*/
+.smd-grid {
+	background-size: 64px 64px;
+	background-image:
+		linear-gradient(90deg, transparent, transparent 63px, lightblue 64px),
+		linear-gradient(transparent, transparent 63px, lightblue 64px);
+}
+
+.smd-grid.c {
+  background-size: 256px 1px;
+	background-image:
+    linear-gradient(90deg,
+      transparent,       transparent 62px,  lightblue 64px,
+      transparent 64px,  transparent 126px, lightblue 128px,
+      transparent 128px, transparent 190px, lightblue 192px,
+      transparent 192px, transparent 254px, lightgray 256px);
+}
+
+.smd-grid.cr {
+  background-size: 256px 256px;
+	background-image:
+    linear-gradient(90deg,
+      transparent,       transparent 62px,  lightblue 64px,
+      transparent 64px,  transparent 126px, lightblue 128px,
+      transparent 128px, transparent 190px, lightblue 192px,
+      transparent 192px, transparent 254px, lightgray 256px),
+
+    linear-gradient(
+      transparent,       transparent 62px,  lightblue 64px,
+      transparent 64px,  transparent 126px, lightblue 128px,
+      transparent 128px, transparent 190px, lightblue 192px,
+      transparent 192px, transparent 254px, lightgray 256px);
+}
+
+.smd-grid.r {
+  background-size: 1px 256px;
+	background-image:
+    linear-gradient(
+      transparent,       transparent 62px,  lightblue 64px,
+      transparent 64px,  transparent 126px, lightblue 128px,
+      transparent 128px, transparent 190px, lightblue 192px,
+      transparent 192px, transparent 254px, lightgray 256px);
+}
