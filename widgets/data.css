@@ -1,0 +1,57 @@
+.widget-field {
+  color: #000;
+  cursor: default;
+}
+
+.widget-field .selected {
+  border: #add8e6;
+}
+
+.widget-binary span:hover {
+  text-shadow: -1px 0px 10px #77a2d5;
+}
+
+.widget-binary span: {
+  text-shadow: -1px 0px 10px #77a2d5;
+}
+
+.widget-binary span:nth-child(4n){
+  margin-right: 4px;
+}
+
+.widget-binary span:nth-child(8n){
+  margin-right: 8px;
+}
+
+.widget-binary .widget-bin-padding {
+  color: gray;
+}
+
+.widget-bin-markers {
+  font-size: .7rem;
+  position: relative;
+  height: 16px;
+}
+
+.widget-bin-markers span {
+  position: absolute;
+}
+
+.widget-bin-markers span.sixteen {
+  left: 183px;
+}
+
+.widget-bin-markers span.zero {
+  left: 352px;
+}
+
+
+.widget-hex {
+  margin-right: 8px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
