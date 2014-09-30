@@ -1,0 +1,142 @@
+Please save the following file as http://strangemonad.com/.well-known/keybase.txt
+  or http://strangemonad.com/keybase.txt
+
+==================================================================
+https://keybase.io/strangemonad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://strangemonad.com
+  * I am strangemonad (https://keybase.io/strangemonad) on keybase.
+  * I have a public key with fingerprint 521C A954 9503 D982 A391  F223 6E1A 3394 9DF9 66D6
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "521ca9549503d982a391f2236e1a33949df966d6",
+            "host": "keybase.io",
+            "key_id": "6E1A33949DF966D6",
+            "uid": "d0d284c7a50763710437b52d5f9ea400",
+            "username": "strangemonad"
+        },
+        "merkle_root": {
+            "ctime": 1412087739,
+            "hash": "6f6368116b4735d7959b24d299365c2cdc8ddf98b61194a2678c7964c2888657d46c1d6552fd287b139f05a845b636972702ec0628486d1f31218c5c23f7ab19",
+            "seqno": 67209
+        },
+        "service": {
+            "hostname": "strangemonad.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412087766,
+    "expire_in": 157680000,
+    "prev": "88fd21f5384a3422b7e4f2c84ec2284862d66c5dfe3c769e3c3306de9d886a70",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.13 (Darwin)
+
+owFtkntQFVUcxy8QFDgYPpLnBLNoCAHu85xdBhxRQB6NgKI1g8Nld89ZWB53r/de
+HjfDGAZSmyBUaICoVALJB9QgKlLIhPxhBKNIVOZMg1ITCjNWkyhk0y5D02M6f+yc
+Ped7vr/v53dOvbebydXFEsA0vPdYmXQZmZFMWRFXJvcTkoacRMx+Qi5SscVhzCxi
+MSZiiELslEQ7jla1EIuGcHSBPWRZE0mUYptd1Sy6ioyG0TRREWnIjcOKasnDNqtN
+NbwIjqZkUeBYgSMZJPC0yAiUQtMMwJTIMAIrIEUAAAHdMl+zO/5VlVjyNKtIXwWJ
+VPySPiFJ1ycY+pKlDUQimmdlKHIkBAykSJaBEkcjThGwyJKkIbRj2zKS3WET9XjF
+mkVERuZibCsswmabpi2Byw7VkFEsRZM8hIygpxLt+UZ9BTCApyggsZDhEBQ4QaJZ
+RAsCAziZlpHMIx2FlwBFCaxIA8jLUACsTPM8DziIWCBTCHAcreh5oUQxgkJyIs9y
+km4sQBqSNJZJoLPwAFEKQ9EUL+vOjAJFiRJ0DDveZ9GIGABpUqgwfm2lqoyN2Ebn
+/gcwWtaK9XNWm+bQZK1I3813OKwxBrfDacXn9YUyLJmXjcySakH63f3zcild+p+e
+ABBJ4HKrasNm1VBwEPCkPow6uFS35HmdkFI4hmdFhqVpCWJWoWWexTK9REcjAGQO
+KZiRIRD0L8OQAGEB6Y0SIfk3KaPnFPMMKDXPIjpKbJioOOwa9JTJxdXk4e5qvF6T
+l6fPX0+68JaPqen0IXnzCwcGPXNfvd7+7XB0TkfcZOXGEwOfZ7VXfg9SbgWmBB/q
+/WUBps2OL5yooRvTvpRPHozx/flCzlRl/lW0ujVo87MfunjeJXrYDa9n1pv73m1J
+He2qzYvwHN52Zm5+B/UoN8F35EZD62pt3c7gqYjHD5w99Wru3J7Sy24/BTiTxt8K
+Od1a1HbuUuu+xGnL1eDR/I7+Dr/OXkd1eTh1djiM++Md7+4a/6rvAp5ZET7qnp6Z
+4bN72/AD39Jks4DOlIQmpsZ+AYc+vX8ufseAz8n+radWjYz1veZGTMgDH4eVf9Lw
+cGF7rrPxIJ8VWd4c+tsbCx+8ONPjFTBedaftWNdE0I/XDgSNT1/2CnXvBEMd4vo6
+55j/QtrY76ZQt4Gh26nUR8XpxxeO9pTPXvwm8LMVSusR61DmYsX5lUonhPONA7MZ
+62YhvtOfFFtzE9WqCWW77h3P/nXbdM6c95X2sJmuFO+o3HtNb7us6kPVLS91lh1u
+9h+/1vLcm3db/TxmNu6M8jvWU+l4OF/Zu2tT8ys32796cmkQE93W3fcnjgbsuVhS
+caRb+WFTi9YW/yStLq96TY+H1+SW57dm16xZ2XTjUVR2uK0gfW1BxNrF/riX69ML
+gs4+HRArtZeXNZ4yTUV21CbfBnv9J6JiB+P2hiuLgVUb1meQIdVb6ixfhzPXL0y9
+nzC7PTnkTw==
+=Pogy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/strangemonad
+
+==================================================================
+
+
+Check http://strangemonad.com/.well-known/keybase.txt OR http://strangemonad.com/keybase.txt now? [Y/n] Please save the following file as http://strangemonad.com/.well-known/keybase.txt
+Check http://strangemonad.com/.well-known/keybase.txt OR http://strangemonad.com/keybase.txt now? [Y/n]   or http://strangemonad.com/keybase.txt
+Check http://strangemonad.com/.well-known/keybase.txt OR http://strangemonad.com/keybase.txt now? [Y/n]
+-----------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://strangemonad.com
+  * I am strangemonad (https://keybase.io/strangemonad) on keybase.
+  * I have a public key with fingerprint 521C A954 9503 D982 A391  F223 6E1A 3394 9DF9 66D6
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "521ca9549503d982a391f2236e1a33949df966d6",
+            "host": "keybase.io",
+            "key_id": "6E1A33949DF966D6",
+            "uid": "d0d284c7a50763710437b52d5f9ea400",
+            "username": "strangemonad"
+        },
+        "merkle_root": {
+            "ctime": 1412087739,
+            "hash": "6f6368116b4735d7959b24d299365c2cdc8ddf98b61194a2678c7964c2888657d46c1d6552fd287b139f05a845b636972702ec0628486d1f31218c5c23f7ab19",
+            "seqno": 67209
+        },
+        "service": {
+            "hostname": "strangemonad.com",
+           warn: Didn't find the posted proof.
+Check http://strangemonad.com/.well-known/keybase.txt OR http://strangemonad.com/keybase.txt again now? [Y/n] -----------------------------------
+jcySakH63f3zcild+p+e
+ABBJ4HKrasNm1VBwEPCkPow6uFS35HmdkFI4hmdFhqVpCWJWoWWexTK9REcjAGQO
+KZiRIRD0L8OQAGEB6Y0SIfk3KaPnFPMMKDXPIjpKbJioOOwa9JTJxdXk4e5qvF6T
+l6fPX0+68JaPqen0IXnzCwcGPXNfvd7+7XB0TkfcZOXGEwOfZ7VXfg9SbgWmBB/q
+/WUBps2OL5yooRvTvpRPHozx/flCzlRl/lW0ujVo87MfunjeJXrYDa9n1pv73m1J
+He2qzYvwHN52Zm5+B/UoN8F35EZD62pt3c7gqYjHD5w99Wru3J7Sy24/BTiTxt8K
+Od1a1HbuUuu+xGnL1eDR/I7+Dr/OXkd1eTh1djiM++Md7+4a/6rvAp5ZET7qnp6Z
+4bN72/AD39Jks4DOlIQmpsZ+AYc+vX8ufseAz8n+radWjYz1veZGTMgDH4eVf9Lw
+cGF7rrPxIJ8VWd4c+tsbCx+8ONPjFTBedaftWNdE0I/XDgSNT1/2CnXvBEMd4vo6
+55j/QtrY76ZQt4Gh26nUR8XpxxeO9pTPXvwm8LMVSusR61DmYsX5lUonhPONA7MZ
+62YhvtOfFFtzE9WqCWW77h3P/nXbdM6c95X2sJmuFO+o3HtNb7us6kPVLS91lh1u
+9h+/1vLcm3db/TxmNu6M8jvWU+l4OF/Zu2tT8ys32796cmkQE93W3fcnjgbsuVhS
+caRb+WFTi9YW/yStLq96TY+H1+SW57dm16xZ2XTjUVR2uK0gfW1BxNrF/riX69ML
+gs4+HRArtZeXNZ4yTUV21CbfBnv9J6JiB+P2hiuLgVUb1meQIdVb6ixfhzPXL0y9
+nzC7PTnkTw==
+=Pogy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
